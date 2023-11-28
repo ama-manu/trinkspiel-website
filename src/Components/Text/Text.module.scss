@@ -1,0 +1,24 @@
+.textCard {
+    position: absolute;
+
+    top: 30%;
+
+    align-items: center;
+    justify-content: center;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+
+    .title {
+        text-align: center;
+    }
+
+    .text {
+        text-align: center;
+    }
+}
